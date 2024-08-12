@@ -1,0 +1,221 @@
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\comics.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\enemy_0.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\enemy_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\fireball.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\heart.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\Levels\crate.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\Levels\earth.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\Levels\stone.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\player_1.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\player_2.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Assets\textSheet.png
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Heads_2021.exe.config
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\Heads_2021.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\aiv-fast2d.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\OpenTK.dll
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\OpenTK.pdb
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\bin\Debug\OpenTK.xml
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.exe
+D:\AIV - 2021 - 2022\Lessons\PR 1\Heads_2021\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.exe
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\comics.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\enemy_0.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\enemy_1.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\fireball.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\heart.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\Levels\crate.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\Levels\earth.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\Levels\stone.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\player_1.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\player_2.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Assets\textSheet.png
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Heads_2021.exe.config
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Heads_2021.exe
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\Heads_2021.pdb
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\OpenTK.dll
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\OpenTK.pdb
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\bin\Debug\OpenTK.xml
+C:\Users\chiro\Desktop\52_Lezione_25_03_Heads_ConeAngle\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\comics.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\enemy_0.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\enemy_1.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\fireball.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\heart.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\Levels\crate.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\Levels\earth.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\Levels\stone.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\player_1.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\player_2.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Assets\textSheet.png
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Heads_2021.exe.config
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Heads_2021.exe
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\Heads_2021.pdb
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\OpenTK.dll
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\OpenTK.pdb
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\bin\Debug\OpenTK.xml
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\obj\Debug\Heads_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\obj\Debug\Heads_2021.exe
+C:\Users\frank\Desktop\55_Lezione_01_04_Heads_FSM\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\comics.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\enemy_0.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\enemy_1.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\fireball.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\heart.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\Levels\crate.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\Levels\earth.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\Levels\stone.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\player_1.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\player_2.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Assets\textSheet.png
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Heads_2021.exe.config
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Heads_2021.exe
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\Heads_2021.pdb
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\OpenTK.dll
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\OpenTK.pdb
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\bin\Debug\OpenTK.xml
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\obj\Debug\Heads_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\obj\Debug\Heads_2021.exe
+C:\Users\frank\Downloads\Dati\Studio\AIV\Sviluppo\55_Ex_Heads_FuzzyLogic\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\comics.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\enemy_0.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\enemy_1.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\fireball.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\heart.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\Levels\crate.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\Levels\earth.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\Levels\stone.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\player_1.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\player_2.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Assets\textSheet.png
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Heads_2021.exe.config
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Heads_2021.exe
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\Heads_2021.pdb
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\OpenTK.dll
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\OpenTK.pdb
+C:\Users\Daniel\Desktop\Head\Heads_2021\bin\Debug\OpenTK.xml
+C:\Users\Daniel\Desktop\Head\Heads_2021\obj\Debug\Heads_2021.csprojAssemblyReference.cache
+C:\Users\Daniel\Desktop\Head\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Desktop\Head\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+C:\Users\Daniel\Desktop\Head\Heads_2021\obj\Debug\Heads_2021.exe
+C:\Users\Daniel\Desktop\Head\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\aless\Downloads\Head\Head\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+C:\Users\aless\Downloads\Head\Head\Heads_2021\obj\Debug\Heads_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\Downloads\Head\Head\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+C:\Users\aless\Downloads\Head\Head\Heads_2021\obj\Debug\Heads_2021.exe
+C:\Users\aless\Downloads\Head\Head\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\comics.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\enemy_0.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\enemy_1.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\fireball.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\heart.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\Levels\crate.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\Levels\earth.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\Levels\stone.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\player_1.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\player_2.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Assets\textSheet.png
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Heads_2021.exe.config
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Heads_2021.exe
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\Heads_2021.pdb
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\OpenTK.dll
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\OpenTK.pdb
+C:\Users\aless\Downloads\Head\Head\Heads_2021\bin\Debug\OpenTK.xml
+C:\Users\aless\Downloads\Head\Head\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\comics.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\enemy_0.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\enemy_1.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\fireball.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\heart.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\Levels\crate.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\Levels\earth.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\Levels\stone.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\player_1.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\player_2.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Assets\textSheet.png
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Heads_2021.exe.config
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Heads_2021.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\Heads_2021.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\OpenTK.dll
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\OpenTK.pdb
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\bin\Debug\OpenTK.xml
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.exe
+C:\Users\aless\OneDrive\Desktop\AIV\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\comics.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\enemy_0.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\enemy_1.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\fireball.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\heart.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\hex_grid_green.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\Levels\crate.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\Levels\earth.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\Levels\earthGrass.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\Levels\stone.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\loadingBar_bar.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\loadingBar_frame.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\player_1.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\player_2.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Assets\textSheet.png
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Heads_2021.exe.config
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Heads_2021.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\Heads_2021.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\aiv-fast2d.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\OpenTK.dll
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\OpenTK.pdb
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\bin\Debug\OpenTK.xml
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.csproj.AssemblyReference.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.csproj.CoreCompileInputs.cache
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.csproj.CopyComplete
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.exe
+C:\Users\Alessio\Desktop\AIV\Anno 1\Progetti\Heads\Heads_2021\obj\Debug\Heads_2021.pdb
